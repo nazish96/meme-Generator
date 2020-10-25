@@ -4,3 +4,9 @@ api to take url for img
 https://api.imgflip.com/get_memes
 
 In text box, TOPtext and BottomText, write any line
+
+![Alt text](https://github.com/nazish96/meme-Generator/blob/main/Screenshot%20(17).png)
+![Alt text](https://github.com/nazish96/meme-Generator/blob/main/Screenshot%20(16).png)
+![Alt text](https://github.com/nazish96/meme-Generator/blob/main/Screenshot%20(15).png)
+![Alt text](https://github.com/nazish96/meme-Generator/blob/main/Screenshot%20(14).png)
+![Alt text](https://github.com/nazish96/meme-Generator/blob/main/Screenshot%20(13).png)
