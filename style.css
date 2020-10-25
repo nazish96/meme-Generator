@@ -1,0 +1,31 @@
+.meme-form{
+	height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+
+.top{
+	position: absolute;
+  top: 20%;
+  left: 16px;
+  font-size: 18px;
+  font-family: Courier;
+	color: red;
+	font-size:30px;
+	font-weight: 900;
+}
+
+.bottom{
+	position: absolute;
+  top: 70%;
+  left: 16px;
+  font-size: 18px;
+  font-family: Courier;
+	color: red;
+	font-size:30px;
+	font-weight: bold;
+}
+.img-size{
+	height: 30%;
+	width: 30%;
+}
